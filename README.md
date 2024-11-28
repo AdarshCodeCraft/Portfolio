@@ -5,3 +5,4 @@
 <p>Interactive Cards 🎴: Each project is displayed as a clickable card with engaging animations.</p>
 <p>Smooth Animations ✨: Subtle transitions and animations enhance the user experience.</p>
 <p>Project Previews 👀: You can preview details about each project directly on the page.</p>
+<h3>📸 Screenshots</h3>
