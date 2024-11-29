@@ -6,3 +6,4 @@
 <p>Smooth Animations ✨: Subtle transitions and animations enhance the user experience.</p>
 <p>Project Previews 👀: You can preview details about each project directly on the page.</p>
 <h3>📸 Screenshots</h3>
+<img src="Screenshot 2024-11-29 183530.png" alt="Img"/>
